@@ -1,35 +1,35 @@
-departamento;region
-Amazonas;Centro sur
-Antioquia;Antioquia
-Arauca;Llanos
-Archipielago de San andres Providencia y  Santa Catalina;Caribe
-Atlantico;Caribe
-Bogota D. C.;Bogota - cundinamarca
-Bolivar;Caribe
-Boyaca;Centro oriente
-Caldas;Eje cafetero
-Caqueta;Centro sur
-Casanare;Llanos
-Cauca;Pacifica
-Cesar;Caribe
-Choco;Pacifica
-Cordoba;Caribe
-Cundinamarca;Bogota - cundinamarca
-Guainia;Llanos
-Guaviare;Llanos
-Huila;Centro sur
-La Guajira;Caribe
-Magdalena;Caribe
-Meta;Llanos
-Narino;Pacifica
-No definido;Sin Region
-Norte de Santander;Centro oriente
-Putumayo;Centro sur
-Quindio;Eje cafetero
-Risaralda;Eje cafetero
-Santander;Centro oriente
-Sucre;Caribe
-Tolima;Centro sur
-Valle del Cauca;Pacifica
-Vaupes;Llanos
-Vichada;Llanos
+departamento,region
+Amazonas,Centro sur
+Antioquia,Antioquia
+Arauca,Llanos
+Archipielago de San andres Providencia y  Santa Catalina,Caribe
+Atlantico,Caribe
+Bogota D. C.,Bogota - cundinamarca
+Bolivar,Caribe
+Boyaca,Centro oriente
+Caldas,Eje cafetero
+Caqueta,Centro sur
+Casanare,Llanos
+Cauca,Pacifica
+Cesar,Caribe
+Choco,Pacifica
+Cordoba,Caribe
+Cundinamarca,Bogota - cundinamarca
+Guainia,Llanos
+Guaviare,Llanos
+Huila,Centro sur
+La Guajira,Caribe
+Magdalena,Caribe
+Meta,Llanos
+Narino,Pacifica
+No definido,Sin Region
+Norte de Santander,Centro oriente
+Putumayo,Centro sur
+Quindio,Eje cafetero
+Risaralda,Eje cafetero
+Santander,Centro oriente
+Sucre,Caribe
+Tolima,Centro sur
+Valle del Cauca,Pacifica
+Vaupes,Llanos
+Vichada,Llanos
